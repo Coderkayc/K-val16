@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning frontend 
 - 💞️ I’m looking to collaborate on projects with teams
 - 📫 How to reach me 08139427730
-- 😄 Pronouns: God gace u those dreams for a reason.. trust him 💯
-- ⚡ Fun fact: i love smiling 🙂
+- 😄 Pronouns: God gave u those dreams for a reason.. trust him 💯
+- ⚡ Fun fact: i love smiling 🙂, playing video games,and listening to music 🎶 
 
 <!---
 K-val16/K-val16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
