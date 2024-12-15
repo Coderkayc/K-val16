@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @K-val16
-- 👀 I’m interested in fullstack 
-- 🌱 I’m currently learning frontend 
+- 👀 Am a frontend developer 
+- 🌱 Might learn Backend too
 - 💞️ I’m looking to collaborate on projects with teams
-- 📫 How to reach me 08139427730
+- 📫 How to reach me @Coderkayc on X
 - 😄 Pronouns: God gave u those dreams for a reason.. trust him 💯
-- ⚡ Fun fact: i love smiling 🙂, playing video games,and listening to music 🎶 
+- ⚡ Fun fact: i like Coding, playing video games, and listening to music 🎶 
 
 <!---
 K-val16/K-val16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
