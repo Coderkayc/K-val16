@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @K-val16
+- 👋 Hi, I’m @Coderkayc
 - 👀 Am a frontend developer 
-- 🌱 Might learn Backend too
 - 💞️ I’m looking to collaborate on projects with teams
 - 📫 How to reach me @Coderkayc on X
 - 😄 Pronouns: God gave u those dreams for a reason.. trust him 💯
